@@ -1,7 +1,7 @@
 -- Merging decision tree log ---
 application
-INJECTED from /Users/wilsondaniel/StudioProjects/wheelchair/android/app/src/main/AndroidManifest.xml:2:5-33:19
-INJECTED from /Users/wilsondaniel/StudioProjects/wheelchair/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/wilsondaniel/StudioProjects/wheelchair/wheelchair_detector/android/app/src/main/AndroidManifest.xml:2:5-33:19
+INJECTED from /Users/wilsondaniel/StudioProjects/wheelchair/wheelchair_detector/android/app/src/debug/AndroidManifest.xml
 MERGED from [androidx.window:window:1.2.0] /Users/wilsondaniel/.gradle/caches/transforms-3/c6ceff0182f675bd0244472d800e6b65/transformed/jetified-window-1.2.0/AndroidManifest.xml:22:5-29:19
 MERGED from [androidx.window:window:1.2.0] /Users/wilsondaniel/.gradle/caches/transforms-3/c6ceff0182f675bd0244472d800e6b65/transformed/jetified-window-1.2.0/AndroidManifest.xml:22:5-29:19
 MERGED from [androidx.core:core:1.13.1] /Users/wilsondaniel/.gradle/caches/transforms-3/89a312242288a533f19277f02a2cca2a/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
@@ -15,18 +15,18 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/wilsondaniel/.gradle
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/wilsondaniel/.gradle/caches/transforms-3/34c7bf3c3063220e7a66e50617e4f6eb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/wilsondaniel/.gradle/caches/transforms-3/34c7bf3c3063220e7a66e50617e4f6eb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 	android:extractNativeLibs
-		INJECTED from /Users/wilsondaniel/StudioProjects/wheelchair/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/wilsondaniel/StudioProjects/wheelchair/wheelchair_detector/android/app/src/debug/AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.13.1] /Users/wilsondaniel/.gradle/caches/transforms-3/89a312242288a533f19277f02a2cca2a/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
 	android:name
-		INJECTED from /Users/wilsondaniel/StudioProjects/wheelchair/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wilsondaniel/StudioProjects/wheelchair/wheelchair_detector/android/app/src/main/AndroidManifest.xml
 manifest
-ADDED from /Users/wilsondaniel/StudioProjects/wheelchair/android/app/src/main/AndroidManifest.xml:1:1-45:12
-MERGED from /Users/wilsondaniel/StudioProjects/wheelchair/android/app/src/main/AndroidManifest.xml:1:1-45:12
-INJECTED from /Users/wilsondaniel/StudioProjects/wheelchair/android/app/src/debug/AndroidManifest.xml:1:1-7:12
-INJECTED from /Users/wilsondaniel/StudioProjects/wheelchair/android/app/src/debug/AndroidManifest.xml:1:1-7:12
-INJECTED from /Users/wilsondaniel/StudioProjects/wheelchair/android/app/src/debug/AndroidManifest.xml:1:1-7:12
-MERGED from [:sensors_plus] /Users/wilsondaniel/StudioProjects/wheelchair/build/sensors_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+ADDED from /Users/wilsondaniel/StudioProjects/wheelchair/wheelchair_detector/android/app/src/main/AndroidManifest.xml:1:1-45:12
+MERGED from /Users/wilsondaniel/StudioProjects/wheelchair/wheelchair_detector/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /Users/wilsondaniel/StudioProjects/wheelchair/wheelchair_detector/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/wilsondaniel/StudioProjects/wheelchair/wheelchair_detector/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/wilsondaniel/StudioProjects/wheelchair/wheelchair_detector/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+MERGED from [:sensors_plus] /Users/wilsondaniel/StudioProjects/wheelchair/wheelchair_detector/build/sensors_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.fragment:fragment:1.7.1] /Users/wilsondaniel/.gradle/caches/transforms-3/fc6633e46fbac149ff4a01688603f291/transformed/fragment-1.7.1/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.window:window:1.2.0] /Users/wilsondaniel/.gradle/caches/transforms-3/c6ceff0182f675bd0244472d800e6b65/transformed/jetified-window-1.2.0/AndroidManifest.xml:17:1-31:12
 MERGED from [androidx.window:window-java:1.2.0] /Users/wilsondaniel/.gradle/caches/transforms-3/8605252cb3d7cf82c6b1d3f6d1758fcc/transformed/jetified-window-java-1.2.0/AndroidManifest.xml:17:1-21:12
@@ -54,35 +54,35 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/wilsondaniel/.grad
 MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/wilsondaniel/.gradle/caches/transforms-3/87848acc30fca2576a74fab75242e7f8/transformed/jetified-core-1.0.0/AndroidManifest.xml:2:1-7:12
 MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/wilsondaniel/.gradle/caches/transforms-3/ce6b8f32ef06a8b8ff45227653549e80/transformed/jetified-relinker-1.4.5/AndroidManifest.xml:2:1-7:12
 	package
-		INJECTED from /Users/wilsondaniel/StudioProjects/wheelchair/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/wilsondaniel/StudioProjects/wheelchair/wheelchair_detector/android/app/src/debug/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/wilsondaniel/StudioProjects/wheelchair/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/wilsondaniel/StudioProjects/wheelchair/wheelchair_detector/android/app/src/debug/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/wilsondaniel/StudioProjects/wheelchair/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/wilsondaniel/StudioProjects/wheelchair/wheelchair_detector/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/wilsondaniel/StudioProjects/wheelchair/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/wilsondaniel/StudioProjects/wheelchair/wheelchair_detector/android/app/src/main/AndroidManifest.xml:1:11-69
 queries
-ADDED from /Users/wilsondaniel/StudioProjects/wheelchair/android/app/src/main/AndroidManifest.xml:39:5-44:15
+ADDED from /Users/wilsondaniel/StudioProjects/wheelchair/wheelchair_detector/android/app/src/main/AndroidManifest.xml:39:5-44:15
 intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
-ADDED from /Users/wilsondaniel/StudioProjects/wheelchair/android/app/src/main/AndroidManifest.xml:40:9-43:18
+ADDED from /Users/wilsondaniel/StudioProjects/wheelchair/wheelchair_detector/android/app/src/main/AndroidManifest.xml:40:9-43:18
 action#android.intent.action.PROCESS_TEXT
-ADDED from /Users/wilsondaniel/StudioProjects/wheelchair/android/app/src/main/AndroidManifest.xml:41:13-72
+ADDED from /Users/wilsondaniel/StudioProjects/wheelchair/wheelchair_detector/android/app/src/main/AndroidManifest.xml:41:13-72
 	android:name
-		ADDED from /Users/wilsondaniel/StudioProjects/wheelchair/android/app/src/main/AndroidManifest.xml:41:21-70
+		ADDED from /Users/wilsondaniel/StudioProjects/wheelchair/wheelchair_detector/android/app/src/main/AndroidManifest.xml:41:21-70
 data
-ADDED from /Users/wilsondaniel/StudioProjects/wheelchair/android/app/src/main/AndroidManifest.xml:42:13-50
+ADDED from /Users/wilsondaniel/StudioProjects/wheelchair/wheelchair_detector/android/app/src/main/AndroidManifest.xml:42:13-50
 	android:mimeType
-		ADDED from /Users/wilsondaniel/StudioProjects/wheelchair/android/app/src/main/AndroidManifest.xml:42:19-48
+		ADDED from /Users/wilsondaniel/StudioProjects/wheelchair/wheelchair_detector/android/app/src/main/AndroidManifest.xml:42:19-48
 uses-permission#android.permission.INTERNET
-ADDED from /Users/wilsondaniel/StudioProjects/wheelchair/android/app/src/debug/AndroidManifest.xml:6:5-66
+ADDED from /Users/wilsondaniel/StudioProjects/wheelchair/wheelchair_detector/android/app/src/debug/AndroidManifest.xml:6:5-66
 	android:name
-		ADDED from /Users/wilsondaniel/StudioProjects/wheelchair/android/app/src/debug/AndroidManifest.xml:6:22-64
+		ADDED from /Users/wilsondaniel/StudioProjects/wheelchair/wheelchair_detector/android/app/src/debug/AndroidManifest.xml:6:22-64
 uses-sdk
-INJECTED from /Users/wilsondaniel/StudioProjects/wheelchair/android/app/src/debug/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/wilsondaniel/StudioProjects/wheelchair/android/app/src/debug/AndroidManifest.xml
-INJECTED from /Users/wilsondaniel/StudioProjects/wheelchair/android/app/src/debug/AndroidManifest.xml
-MERGED from [:sensors_plus] /Users/wilsondaniel/StudioProjects/wheelchair/build/sensors_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:sensors_plus] /Users/wilsondaniel/StudioProjects/wheelchair/build/sensors_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+INJECTED from /Users/wilsondaniel/StudioProjects/wheelchair/wheelchair_detector/android/app/src/debug/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/wilsondaniel/StudioProjects/wheelchair/wheelchair_detector/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/wilsondaniel/StudioProjects/wheelchair/wheelchair_detector/android/app/src/debug/AndroidManifest.xml
+MERGED from [:sensors_plus] /Users/wilsondaniel/StudioProjects/wheelchair/wheelchair_detector/build/sensors_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:sensors_plus] /Users/wilsondaniel/StudioProjects/wheelchair/wheelchair_detector/build/sensors_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [androidx.fragment:fragment:1.7.1] /Users/wilsondaniel/.gradle/caches/transforms-3/fc6633e46fbac149ff4a01688603f291/transformed/fragment-1.7.1/AndroidManifest.xml:5:5-44
 MERGED from [androidx.fragment:fragment:1.7.1] /Users/wilsondaniel/.gradle/caches/transforms-3/fc6633e46fbac149ff4a01688603f291/transformed/fragment-1.7.1/AndroidManifest.xml:5:5-44
 MERGED from [androidx.window:window:1.2.0] /Users/wilsondaniel/.gradle/caches/transforms-3/c6ceff0182f675bd0244472d800e6b65/transformed/jetified-window-1.2.0/AndroidManifest.xml:20:5-44
@@ -136,9 +136,9 @@ MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/wilsondaniel/.gr
 MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/wilsondaniel/.gradle/caches/transforms-3/ce6b8f32ef06a8b8ff45227653549e80/transformed/jetified-relinker-1.4.5/AndroidManifest.xml:5:5-43
 MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/wilsondaniel/.gradle/caches/transforms-3/ce6b8f32ef06a8b8ff45227653549e80/transformed/jetified-relinker-1.4.5/AndroidManifest.xml:5:5-43
 	android:targetSdkVersion
-		INJECTED from /Users/wilsondaniel/StudioProjects/wheelchair/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/wilsondaniel/StudioProjects/wheelchair/wheelchair_detector/android/app/src/debug/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/wilsondaniel/StudioProjects/wheelchair/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/wilsondaniel/StudioProjects/wheelchair/wheelchair_detector/android/app/src/debug/AndroidManifest.xml
 uses-library#androidx.window.extensions
 ADDED from [androidx.window:window:1.2.0] /Users/wilsondaniel/.gradle/caches/transforms-3/c6ceff0182f675bd0244472d800e6b65/transformed/jetified-window-1.2.0/AndroidManifest.xml:23:9-25:40
 	android:required

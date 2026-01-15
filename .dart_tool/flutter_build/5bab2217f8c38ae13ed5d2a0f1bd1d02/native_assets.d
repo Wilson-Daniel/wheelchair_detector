@@ -1,0 +1,1 @@
+ /Users/wilsondaniel/StudioProjects/wheelchair/wheelchair_detector/.dart_tool/flutter_build/5bab2217f8c38ae13ed5d2a0f1bd1d02/native_assets.yaml: 

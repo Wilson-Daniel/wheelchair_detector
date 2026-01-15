@@ -39,7 +39,7 @@ class MyApp extends StatelessWidget {
         useMaterial3: true,
         colorSchemeSeed: const Color(0x9f4376f8),
       ),
-      home: const WheelchairMovementDetector(),
+      home: const WheelchairMovementScreen(),
     );
   }
 }

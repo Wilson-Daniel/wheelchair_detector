@@ -49,7 +49,7 @@
             "outputFile": "com.example.wheelchair.app-merged_res-26:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/wilsondaniel/StudioProjects/wheelchair/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/wilsondaniel/StudioProjects/wheelchair/wheelchair_detector/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -1348,7 +1348,7 @@
                     }
                 },
                 {
-                    "source": "/Users/wilsondaniel/StudioProjects/wheelchair/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/wilsondaniel/StudioProjects/wheelchair/wheelchair_detector/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
