@@ -1,0 +1,15 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/wilsondaniel/.pub-cache/hosted/pub.dev/sensors_plus-6.1.2/android/src/main/AndroidManifest.xml:1:1-57
+INJECTED from /Users/wilsondaniel/.pub-cache/hosted/pub.dev/sensors_plus-6.1.2/android/src/main/AndroidManifest.xml:1:1-57
+	package
+		ADDED from /Users/wilsondaniel/.pub-cache/hosted/pub.dev/sensors_plus-6.1.2/android/src/main/AndroidManifest.xml:1:11-54
+		INJECTED from /Users/wilsondaniel/.pub-cache/hosted/pub.dev/sensors_plus-6.1.2/android/src/main/AndroidManifest.xml
+uses-sdk
+INJECTED from /Users/wilsondaniel/.pub-cache/hosted/pub.dev/sensors_plus-6.1.2/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/wilsondaniel/.pub-cache/hosted/pub.dev/sensors_plus-6.1.2/android/src/main/AndroidManifest.xml
+INJECTED from /Users/wilsondaniel/.pub-cache/hosted/pub.dev/sensors_plus-6.1.2/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/wilsondaniel/.pub-cache/hosted/pub.dev/sensors_plus-6.1.2/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/wilsondaniel/.pub-cache/hosted/pub.dev/sensors_plus-6.1.2/android/src/main/AndroidManifest.xml
