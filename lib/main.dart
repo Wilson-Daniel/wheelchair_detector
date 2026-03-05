@@ -54,6 +54,7 @@ class WheelchairMovementScreen extends StatefulWidget {
 class _WheelchairMovementScreenState extends State<WheelchairMovementScreen> {
   final MovementDetector _detector = MovementDetector();
   MovementData? _currentData;
+  List<MovementData> allOverData = [];
 
   @override
   void initState() {
@@ -68,6 +69,7 @@ class _WheelchairMovementScreenState extends State<WheelchairMovementScreen> {
     _detector.movementDataStream.listen((data) {
       setState(() {
         _currentData = data;
+        allOverData.add(data);
       });
     });
   }
@@ -96,6 +98,9 @@ class _WheelchairMovementScreenState extends State<WheelchairMovementScreen> {
           IconButton(
             icon: const Icon(Icons.settings_backup_restore),
             onPressed: () {
+              allOverData.forEach((value){
+                print("value ${value.totalDistance}");
+              });
               _detector.resetSession();
             },
             tooltip: 'Reset Session',
